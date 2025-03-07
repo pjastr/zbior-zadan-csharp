@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Zbiór zadań - C#"
+  author: Piotr Jastrzębski
+  date: today
+  cover-image: logo.png
+  chapters:
+    - index.qmd
+    - references.qmd
+    - changelog.qmd
+  downloads: pdf
+  repo-url: https://github.com/pjastr/zbior-zadan-csharp
+  repo-actions: [issue]
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar
+    lang: pl
+  pdf:
+    lang: pl
+    header-includes: |
+      \titlehead{\includegraphics[width=6in]{logo.png}}
+
+
+editor: visual
+

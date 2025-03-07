@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zbiór zadań - C#",
+    "section": "",
+    "text": "Zbiór zadań - C#\nTu będzie zbiór zadań z programowania w języku C#. Inspiracją było zebranie zadań powstałych w trakcie prowadzenia zajęć dydaktycznych realizowanych na Wydziale Matematyki i Informatyki Uniwersytetu Warmińsko-Mazurskiego w Olsztynie.\nRozwiązania wybranych zadań dostępne są tutaj: (to do).\n\n\n\n\nIdzikowski, Paweł. 2018. „Zbiór zadan”. GitHub; Repozytorium GitHub. 2018. https://github.com/trolit/Zbior_zadan.\n\n\nKubiak, Mirosław J. 2018. C# Zadania z programowania z przykładowymi rozwiązaniami. Helion.\n\n\nSopyla, Krzysztof. 2016. „Dydaktyka - Dr Krzysztof Sopyla”. Wydział Matematyki i Informatyki, Uniwersytet Warmińsko-Mazurski w Olsztynie; Strona internetowa. http://wmii.uwm.edu.pl/~ksopyla/dydaktyka/.",
+    "crumbs": [
+      "Zbiór zadań - C\\#"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Bibliografia i inne zbiory zadań",
+    "section": "",
+    "text": "Idzikowski, Paweł. 2018. “Zbiór Zadan.” GitHub;\nRepozytorium GitHub. 2018. https://github.com/trolit/Zbior_zadan.\n\n\nKubiak, Mirosław J. 2018. C# Zadania z Programowania z Przykładowymi\nRozwiązaniami. Helion.\n\n\nSopyla, Krzysztof. 2016. “Dydaktyka - Dr Krzysztof Sopyla.”\nWydział Matematyki i Informatyki, Uniwersytet Warmińsko-Mazurski w\nOlsztynie; Strona internetowa. http://wmii.uwm.edu.pl/~ksopyla/dydaktyka/.",
+    "crumbs": [
+      "Bibliografia i inne zbiory zadań"
+    ]
+  },
+  {
+    "objectID": "changelog.html",
+    "href": "changelog.html",
+    "title": "Historia zmian",
+    "section": "",
+    "text": "7.03.2025 - początki",
+    "crumbs": [
+      "Historia zmian"
+    ]
+  }
+]
